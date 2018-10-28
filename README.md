@@ -39,5 +39,5 @@ Los gestores de ventanas son programas clientes de X que son o parte del entorno
 
 # ¿ Que es mejor ?
 
-Segun que ordenador tienes que aplicar uno o otro , por ejemplo si tienes un pc nuevo o una persona profesional tendrias que ponerte un entorno grfico como KDE ya que es un entorno muy bonito
+Según que ordenador tienes que aplicar uno o otro , por ejemplo si tienes un pc nuevo o una persona profesional tendrías que ponerte un entorno gráfico como KDE ya que es un entorno muy bonito
 En cambio para un pc de hace muchos años o que no va muy bien es mejor un gestor de ventanas como openbox ya que ira mucho mejor pero si no te gusta puedes aplicarle una interfaz.
